@@ -182,8 +182,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index",
-    "heroku-postbuild": "cd client && npm install && npm run build"
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
